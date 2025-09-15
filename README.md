@@ -62,7 +62,7 @@ These adjustments would not only increase conversion and revenue per customer bu
 ## Repository Structure
 - `queries/` → Contains SQL scripts (basic, intermediate, advanced)  
 - `results/` → CSV outputs and charts generated from queries  
-- `Pizza_Sales_Insights.pdf` → (Optional) Business presentation summarizing findings  
+- `Pizza_Sales_Insights.pdf` → Business presentation summarizing findings  
 
 ---
 
